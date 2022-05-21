@@ -8,7 +8,7 @@ DEMO
 
 ![Alt Text](https://github.com/almcarvalho/jogo-da-memoria-dio/blob/master/demo/demo.gif)
 
-<a href="www.google.com">LIVE APP DEMO</a>
+<a href="https://taupe-khapse-4a5456.netlify.app/" target="_blank">LIVE APP DEMO</a>
 
 ### Os requisitos são:
 
