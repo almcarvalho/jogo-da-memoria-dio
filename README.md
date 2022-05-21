@@ -6,7 +6,9 @@ Projeto do curso da DIO sobre javascript ministrado pela Professora Gabriela Pin
 
 DEMO
 
-LIVE APP DEMO
+![Alt Text](https://github.com/almcarvalho/jogo-da-memoria-dio/blob/master/demo/demo.gif)
+
+<a href="www.google.com">LIVE APP DEMO</a>
 
 ### Os requisitos são:
 
